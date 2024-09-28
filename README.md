@@ -1,2 +1,5 @@
 # LITA_Project
-My projects while learning Data Analysis with the Incubator Hub
+
+## Project Title: Sales Report and Analysis
+
+### Project Overview

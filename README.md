@@ -12,11 +12,9 @@ The primary source of Data used here is Data Sales.csv and this is an open sourc
 - Microsoft Excel
     1. For Data Cleaning
     2. For Data Analysis
-    3. For Data Visualization
+    3. For creating a pivot table
+    4. For Data Visualization
        
-- SQL - Structured Query Language for Quering of Data
-- Github for Portfolio Building
-
 ### Data Cleaning and Preparation
 In the initial phase of the data cleaning and preparations, we perform the foolowing action;
 1. Data loading and Inspection
@@ -30,9 +28,9 @@ EDA involved the exploring of the data to answer some questions about the data s
 - Which store has the lowest unit sold
 
 ###  Data Analysis
-Here we include some basic lines of code or queries used during our analysis;
+Here we include some basic lines of code and functions used during our analysis;
 
-```SQL
-SELECT region sum(profit)
-as TotalProfit from Table1
+``` activated the pivot table command
 ```
+
+### Data Visualization

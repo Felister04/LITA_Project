@@ -34,3 +34,7 @@ Here we include some basic lines of code and functions used during our analysis;
  - Created a chart to visualiz
 
 ### Data Visualization
+
+![Screenshot (16)](https://github.com/user-attachments/assets/3dd4c06d-60ec-4e11-b7e0-e7a12e210f64)
+
+![Screenshot (17)](https://github.com/user-attachments/assets/bef92bc8-d114-4a33-bb72-a37b64134a97)

@@ -30,7 +30,7 @@ EDA involved the exploring of the data to answer some questions about the data s
 ###  Data Analysis
 Here we include some basic lines of code and functions used during our analysis;
 
-``` activated the pivot table command
-```
+ - Activated the pivot table command
+ - Created a chart to visualiz
 
 ### Data Visualization

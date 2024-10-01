@@ -2,6 +2,20 @@
 
 ## Project Title: Sales Report and Analysis
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+ 
 ### Project Overview
 This Data Analysis project aims to generate insight into the sales performance of each region,market,model,store, and line of business over the past 3 years. By analysing the various parameters in the data received, we seek to gather enoung insight to make reasonable decision and to know the best performance from our data.
 
